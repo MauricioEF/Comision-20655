@@ -1,0 +1,20 @@
+{
+	"content_string": "{\n  \"name\": \"clasearchivitospoderosos\",\n  \"version\": \"1.0.0\",\n  \"description\": \"\",\n  \"main\": \"index.js\",\n  \"type\": \"module\",\n  \"scripts\": {\n    \"test\": \"echo \\\"Error: no test specified\\\" && exit 1\"\n  },\n  \"keywords\": [],\n  \"author\": \"\",\n  \"license\": \"ISC\",\n  \"dependencies\": {\n    \"papaconqueso\": \"^1.0.1\"\n  }\n}\n",
+	"content_obj": {
+		"name": "clasearchivitospoderosos",
+		"version": "1.0.0",
+		"description": "",
+		"main": "index.js",
+		"type": "module",
+		"scripts": {
+			"test": "echo \"Error: no test specified\" && exit 1"
+		},
+		"keywords": [],
+		"author": "CoderHouse",
+		"license": "ISC",
+		"dependencies": {
+			"papaconqueso": "^1.0.1"
+		}
+	},
+	"size": 312
+}
