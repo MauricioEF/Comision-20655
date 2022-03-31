@@ -1,0 +1,11 @@
+{
+  "scripts":{
+    "build":"babel index.js -o final.js -w",
+    "start":"node index.js"
+  },
+  "dependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.8",
+    "@babel/preset-env": "^7.16.11"
+  }
+}
